@@ -1,0 +1,401 @@
+﻿OBJECTID,F_eid,title,title_en,description,description_en,latitude,longitude,type,start,stop,contributor
+22,815421,อุบัติเหตุ ถนนพระราม 4 ขาออก,Accident at Rama IV Rd.,"ถนนพระราม 4 ขาออก บริเวณทางลงสะพานไทย - ญี่ปุ่น รถแท๊กซี่ชนขอบทางล้อหน้าซ้ายได้รับความเสียหาย กีดขวางการจราจร
+
+Cr.JS100","Car accident blocking the left lane on the way down from Thai-Japanese Friendship Bridge on outbound Rama IV Rd.
+
+Cr.JS100",13.72917406,100.5377407,3,2024-01-01 9:57,2024-01-01 10:57,itic.pacharasrung
+25,815424,คืบหน้าอุบัติเหตุ ถนนพระราม 4 ขาออก,Accident at Rama IV Rd.,"กรณีถนนพระราม 4 ขาออก บริเวณทางลงสะพานไทย - ญี่ปุ่น รถแท๊กซี่ชนขอบทางล้อหน้าซ้ายได้รับความเสียหาย  ตำรวจจราจรชุดเคลื่อนที่เร็ว ให้การช่วยเหลือพ้นกีดขวางการจราจร
+
+Cr.JS100","Update car accident was moved out of locale on the way down from Thai-Japanese Friendship Bridge on outbound Rama IV Rd.
+
+Cr.JS100",13.72919491,100.5377032,3,2024-01-01 11:48,2024-01-01 12:48,itic.pacharasrung
+61,815460,อุบัติเหตุ ถนนเพลินจิต,Accident at Phloenchit Rd.,"ถนนเพลินจิต บริเวณ `แยกชิดลม` มีอุบัติเหตุ (รถนั่งส่วนบุคคล ชนกับ รถแท็กซี่) กีดขวางการจราจร เลนกลาง 
+
+Cr.@Traffic_1197","Cars accident blocking the middle lane at Chit Lom Intersection on Phloen Chit Rd.
+
+Cr.@Traffic_1197",13.7438977,100.5438133,3,2024-01-01 23:44,2024-01-02 0:44,itic.kittaya@gmail.com
+64,815468,อุบัติเหตุ ถนนวิทยุ,Accident at Wireless Rd.,"05.50 น. ถนนวิทยุ มุ่งหน้าพระราม  4 หน้าสถานทูตอเมริกา อุบัติเหตุ รถจักรยานยนต์ ชนกับรถนั่งส่วนบุคคล ในช่องทางหลัก แล้วรถ  จยย. ข้ามไปอยู่ในช่องคู่ขนาน 
+
+Cr.FM 91","Car accident blocking traffic lane in front of United States Embassy on Wireless Rd.
+
+Cr.FM 91",13.73610218,100.5463573,3,2024-01-02 5:58,2024-01-02 6:58,itic.nirat
+66,815471,รถติด ถนนวิทยุ,Heavy traffic at Wireless Rd.,"ถนนวิทยุ หน้าสถานทูตอเมริกา มีอุบัติเหตุ (รถจักรยานยนต์ ชนกับ รถนั่งส่วนบุคคล) กำลังช่วยคนเจ็บ รถติดขัดในจุดดังกล่าว
+
+Cr.FM91trafficpro","Heavy traffic due to cars accident blocking traffic lane in front of United States Embassy on Witthayu Rd.(Wireless Road) 
+
+Cr.FM91trafficpo",13.73956877,100.5469273,10,2024-01-02 7:00,2024-01-02 8:00,itic.iyarin
+77,815482,อุบัติเหตุ ถนนดินแดง,Accident at Din Daeng Rd.,"ถนนดินแดง ช่วง แยกสามเหลี่ยมดินแดง มุ่งหน้า อนุสาวรีย์ชัยสมรภูมิ ก่อนถึงใต้ทางด่วน เล็กน้อย รถเก๋งกับรถจยย. ชนกัน ขวางช่องทางกลางและขวา มีผู้บาดเจ็บ
+
+Cr. JS100","Cars accident blocking the middle and  right lanes before under Expressway on inbound Din Daeng Rd.
+
+Cr. JS100",13.7635573,100.5460462,3,2024-01-02 11:18,2024-01-02 12:18,itic.pacharasrung
+144,815553,อุบัติเหตุ ปากซอยราชปรารภ 14 (ซอยบุญปรารภ),Accident at Soi Ratchaprarop 14 (Soi Bun Prarop),"ปากซอยราชปรารภ 14 มีอุบัติเหตุ จยย. ชนกัน กีดขวางการจราจร การจราจรชะลอตัว
+
+Cr.JS100","Motorcycles accident blocking traffic lane at the entrance of Soi Ratchaprarop 14.
+
+Cr.JS100",13.7579209,100.5424936,3,2024-01-03 16:27,2024-01-03 17:27,itic.rattanakit
+150,815560,เพลิงไหม้รถยนต์ ยกระดับจตุรทิศ,Fire at Chaturathit Elevated,"เวลา 18.11 น. 
+เหตุเพลิงไหม้รถยนต์ ยกระดับจตุรทิศ มุ่งหน้าพระรามเก้า   เจ้าหน้าที่สถานีดับเพลิงและกู้ภัยบางกะปิถึงที่เกิดเหตุ เจ้าหน้าที่อยู่ระหว่างการใช้น้ำ
+
+Cr. ศูนย์วิทยุพระราม199","Car on fire at Chaturathit Elevated heading to Rama IX. Officers at Bang Kapi Fire and Rescue Station arrived at the scene. Officers are using water.
+
+Cr. Rama 199 Radio Center",13.75460178,100.5583777,15,2024-01-03 18:15,2024-01-03 19:15,itic.sunisa
+208,815637,รถเสีย ถนนราชดำริ,Car break down at Ratchadamri Rd., รายงานโดย เป้อูซี้ ไม่ซี ก็ซิ้ง,,13.74678057,100.5395955,1,2024-01-04 18:55,2024-01-04 19:55,itic_user
+231,815668,อุบัติเหตุ ถนนพระราม 1,Accident at Rama I Rd.,"ถนนพระราม 1 จาก แยกเฉลิมเผ่า มุ่งหน้า แยกราชประสงค์ ก่อนถึงแยกราชประสงค์ เล็กน้อย รถจยย.กับรถเก๋ง ชนกัน ขวาง 2 ช่องทางขวา มีผู้บาดเจ็บ จนท.กำลังดำเนินการ การจราจรชะลอตัว  
+
+Cr.36《BAS~KLUB》36","Cars accident blocking two right lanes before Ratchaprasong Intersection on outbound Rama I Rd.
+
+Cr.36《BAS~KLUB》36",13.74473273,100.5395566,3,2024-01-05 9:49,2024-01-05 10:49,itic.pacharasrung
+242,815679,อุบัติเหตุ ถนนศรีอยุธยา,Accident at Si Ayudhaya Rd.,"ถนนศรีอยุธยา บริเวณหน้า `โชว์รูมฮอนด้า สาขาศรีอยุธยา` มีอุบัติเหตุ (รถชนกัน 3 คัน) กีดขวางการจราจร 2 เลนซ้าย
+
+Cr.@Traffic_1197","Cars accident blocking two left lanes in front of Honda Showroom on Si Ayutthaya.
+
+Cr.@Traffic_1197",13.7572748,100.5364707,3,2024-01-05 12:12,2024-01-05 13:12,itic.rattanakit
+277,815714,รถเสีย ถนนราชปรารภ,Car breakdown at Ratchaprarop Rd.,"ถนนราชปรารภ เลย แยกประตูน้ำ  มี (รถจอดเสีย) กีดขวางการจราจร เลนซ้าย
+
+Cr.@Traffic_1197","Car breakdown blocking the left lane past Pratu Nam Intersection on Ratchaprarop Rd.
+
+Cr.@Traffic_1197",13.75061956,100.5411418,1,2024-01-05 23:34,2024-01-06 0:34,itic.kittaya@gmail.com
+293,815746,รถเสีย ถนนพญาไท,Car breakdown at Phayathai Rd.,"ถนนพญาไท มาจาก อนุสาวรีย์ชัยสมรภูมิ ก่อนถึง `แยกพญาไท` เล็กน้อย มี (รถนั่งส่วนบุคคล จอดเสีย) กีดขวางการจราจร เลนกลาง 
+
+Cr.@Traffic_1197","Car breakdown blocking the middle lane before Phaya Thai Intersection on Phaya Thai Rd.
+
+Cr.@Traffic_1197",13.75875198,100.5349244,1,2024-01-06 12:26,2024-01-06 13:26,itic.kittaya@gmail.com
+357,815815,ประกาศ ลานจอดสยามพารากอนเต็ม,Information at Siam paragon and Siam Discovery,"ลานจอดรถ Siam Paragon เต็มทุกชั้นแนะนำลูกค้าจอดรถที่ Siam Carpark
+
+Cr. FM91","Siam Paragon is full parking. Can advise customers to park at Siam Carpark.
+
+Cr. FM91",13.74662946,100.5344416,8,2024-01-07 14:06,2024-01-07 15:06,itic.adisak
+413,815875,อุบัติเหตุ ถนนจตุรทิศ ขาเข้า,Accident at Chatura Thit Rd.,"ถนนจตุรทิศ ขาเข้า บนสะพานข้ามแยกหมอเหล็ง มีอุบัติเหตุ รถนั่งส่วนบุคคล ชนกับ รถกระบะ กีดขวางการจราจร เลนขวา การจราจรชะลอตัว
+
+Cr.JS100","Cars accident blocking the right lane on Mo Leng Overpass on inbound Chaturathit Rd.
+
+Cr.JS100",13.75601255,100.5427082,3,2024-01-08 14:16,2024-01-08 15:16,itic.rattanakit
+436,815898,เพลิงไหม้ ซอยประชาสงเคราะห์ 2 (ซอย สุทธิพร),Fire at Soi Pracha Songkhro 2 (Soi Sutthi Phon),"เพลิงไหม้รถจักรยานยนต์ ซอยประชาสงเคราะห์ 2 ถนนประชาสงเคราะห์ แขวงดินแดง เขตดินแดง กรุงเทพมหานคร เจ้าหน้าที่สถานีดับเพลิงและกู้ภัยห้วยขวางกำลังไปที่เกิดเหตุ
+
+Cr.ศูนย์วิทยุพระราม199","Fire in Soi Pracha Songkhro 2.
+
+Cr.ศูนย์วิทยุพระราม199",13.76143927,100.5581014,15,2024-01-08 23:25,2024-01-09 0:25,itic.kittaya@gmail.com
+437,815899,คืบหน้าเพลิงไหม้ ซอยประชาสงเคราะห์ 2 (ซอย สุทธิพร),Fire at Soi Pracha Songkhro 2 (Soi Sutthi Phon),"เพลิงไหม้รถจักรยานยนต์ ซอยประชาสงเคราะห์ 2  เจ้าหน้าที่สถานีดับเพลิงและกู้ภัยห้วยขวางถึงที่เกิดเหตุ ตรวจสอบแล้วเป็นเพลิงไหม้รถจักรยานยนต์เสียหายจำนวน 1 คัน ขณะนี้เพลิงสงบเป็นที่เรียบร้อย รายละเอียดเพิ่มเติมอยู่ระหว่างการตรวจสอบ
+
+Cr.ศูนย์วิทยุพระราม199","Update now fireman can control fire in Soi Pracha Songkhro 2.
+
+Cr.ศูนย์วิทยุพระราม199",13.76144709,100.5580732,15,2024-01-08 23:42,2024-01-09 0:42,itic.kittaya@gmail.com
+530,816000,รถเสีย ถนนราชดำริ,Car breakdown at Ratchadamri Rd.,"ถนนราชดำริ ใกล้สวนลุมพินี มีรถแท็กซี่ จอดเสีย กีดขวางการจราจร เลนซ้าย
+
+Cr.FM91trafficpro","Car breakdown blocking the left lane near Lumphini Park on Ratchadamri Rd.
+
+Cr.FM91trafficpro",13.73226425,100.5378266,1,2024-01-10 13:48,2024-01-10 14:48,itic.rattanakit
+539,816009,เพลิงไหม้ ถนนพระราม 9,Fire at Rama IX Rd.,"เหตุไฟฟ้าลัดวงจรที่ตู้ควบคุมสัญญาณไฟของเอไอเอส หน้าอาคาร เดอะไนน์ ทาวเวอร์ส ถนนพระราม 9 แขวงห้วยขวาง เขตห้วยขวาง  เจ้าหน้าที่สถานีดับเพลิงและกู้ภัยห้วยขวางกำลังไปที่เกิดเหตุ
+
+Cr.ศูนย์วิทยุพระราม199","Short circuit in front of The Nine Towers on Rama IX Rd.
+
+Cr.ศูนย์วิทยุพระราม199",13.75601645,100.56741,15,2024-01-10 16:52,2024-01-10 17:52,itic.rattanakit
+541,816011,อุบัติเหตุ ถนนพระราม 4 ขาเข้า,Accident at Rama IV Rd.,"ถนนพระราม 4 ขาเข้า บนสะพานไทย-ญี่ปุ่น มีอุบัติเหตุ จยย. ชนกัน 3 คัน กีดขวางการจราจร เลนซ้าย การจราจรติดขัด
+
+Cr.JS100","Cars accident blocking the left lane on Thai-Japanese Friendship Bridge on inbound Rama IV Rd.
+
+Cr.JS100",13.72969257,100.5359705,3,2024-01-10 16:57,2024-01-10 17:57,itic.rattanakit
+556,816026,อุบัติเหตุ ทางด่วนเฉลิมมหานคร,Accident at Chaloem Mahanakhon Expressway.,"ทางด่วนเฉลิมมหานคร จากเนินเพลินจิต ก่อนถึงทางลงเพชรบุรี ประมาณ 1 กม. รถชนกัน 5 คัน ขวางช่องทางขวา การจราจรเคลื่อนตัวช้า 
+
+Cr. Js100","Cars accident blocking the right lane, 1 Km. before the way down to Phetchaburi on Chaloem Mahanakhon Expressway, From Noen Phloen Chit.
+
+Cr. Js100",13.74749141,100.5497676,3,2024-01-10 20:29,2024-01-10 21:29,itic.sunisa
+558,816029,อุบัติเหตุ ถนนอโศก-ดินแดง ขาออก,Accident at Asok-Din Daeng Rd.,"ถนนอโศก-ดินแดง ขาออก บนสะพานข้ามแยกประชาสงเคราะห์ มีอุบัติเหตุ รถนั่งส่วนบุคคล เสียหลักพลิกคว่ำ กีดขวางการจราจร
+
+Cr.FM91trafficpro","Cars accident blocking traffic lane on Pracha Songkhro Overpass on outbound Asok - Din Daeng Rd.
+
+Cr.FM91trafficpro",13.760504,100.5550423,3,2024-01-10 21:32,2024-01-10 22:32,itic.kittaya@gmail.com
+579,816061,รถเสีย ยกระดับพระราม 9 ขาเข้า,Car breakdown at Rama IX Overpass.,"ทางยกระดับพระราม 9 ขาเข้า งก่อนถึงทางลงแยกโบสถ์แม่พระเล็กน้อย รถปิคอัพจอดเสีย ขวางช่องทางขวา
+
+Cr. JS100","Car breakdown blocking the right lane before on the way down to Pracha Songkhro on inbound Rama IX Overpass.
+
+Cr. JS100",13.75886921,100.5566262,1,2024-01-11 9:49,2024-01-11 10:49,itic.pacharasrung
+584,816066,อุบัติเหตุ ถนนพระราม 4,Accident at Rama IV Rd.,"ถนนพระราม 4 ขาเข้า บริเวณฝั่งตรงข้ามสวนลุมพินี จยย.ล้มไม่ทราบคู่กรณี ขวางช่องทางขวา การจราจรเคลื่อนตัวช้า
+
+Cr.BankNoon","Motorcycle accident blocking the right lane opposite Lumphini Park on inbound Rama IV Rd.
+
+Cr.BankNoon",13.72781786,100.5406791,3,2024-01-11 11:51,2024-01-11 12:51,itic.pacharasrung
+591,816073,เพลิงไหม้ ซอยสุขุมวิท 31 (ซอยสวัสดี),Fire at Soi Sukhumvit 31 (Soi Sawatdi),"เหตุเพลิงไหม้รถจักรยานยนต์ ซอยสุขุมวิท 31 แขวงคลองเตยเหนือ เขตวัฒนา เจ้าหน้าที่สถานีดับเพลิงและกู้ภัยคลองเตยกำลังไปที่เกิดเหตุ
+
+Cr.ศูนย์วิทยุพระราม199","Fire on motorcycle in Soi Sukhumvit 31.
+
+Cr.ศูนย์วิทยุพระราม199",13.73440991,100.5663867,15,2024-01-11 13:02,2024-01-11 14:02,itic.rattanakit
+605,816088,ฝนตก ถนนเพชรบุรี,Raining at Phetchaburi Rd.,"ถนนเพชรบุรี ใกล้แยกอโศก-เพชรบุรี ฝนตก
+
+Cr.@SweetJiab","Raining on Phetchaburi Rd.
+
+Cr.@SweetJiab",13.74909934,100.5629669,5,2024-01-11 15:45,2024-01-11 16:45,itic.rattanakit
+688,816173,รถติด ถนนเพชรบุรีตัดใหม่ ขาออก,Heavy traffic  at New Phetchaburi Rd.,"ถนนเพชรบุรีตัดใหม่ ขาออก มุ่งหน้า `แยกพร้อมพงษ์` การจราจรยังคงติดขัด รถมากเคลื่อนตัวได้ช้า 
+
+Cr. 1197","Heavy traffic on outbound New Phetchaburi Rd. Many cars moving slowly.
+
+Cr. 1197",13.74788377,100.5711152,10,2024-01-12 20:53,2024-01-12 21:53,itic.sunisa
+735,816225,อุบัติเหตุ ถนนวิทยุ,Accident at Wireless Rd.,"ถนนวิทยุ ตรงข้าม `สถานฑูตอเมริกา` มีอุบัติเหตุ (จยย. ชนกับ รถนั่งส่วนบุคคล) กีดขวางการจราจร เลนซ้าย มีผู้ได้รับบาดเจ็บ 1 ราย 
+
+Cr.@Traffic_1197","Cars accident blocking the left lane opposite United States Embassy on Witthayu (Wireless Road)
+
+Cr.@Traffic_1197",13.73664282,100.5462661,3,2024-01-13 17:35,2024-01-13 18:35,itic.rattanakit
+736,816226,อุบัติเหตุ ถนนวิทยุ,Accident at Wireless Rd.,"ถนนวิทยุ บริเวณหน้า `สถานฑูตอเมริกา` มีอุบัติเหตุ (รถนั่งส่วนบุคคล ชนกัน) กีดขวางการจราจร เลนซ้าย 
+
+Cr.@Traffic_1197","Cars accident blocking the left lane in front of United States Embassy on Witthayu (Wireless Road)
+
+Cr.@Traffic_1197",13.73662198,100.5464137,3,2024-01-13 17:35,2024-01-13 18:35,itic.rattanakit
+738,816228,รถติด ถนนอโศกมนตรี,Heavy traffic  at Asok Monti Rd.,"ถนนอโศกมนตรี มุ่งหน้าสุขุมวิท การจราจรติดขัด
+
+Cr.sunisa","Heavy traffic on Asok Montri Rd., heading to Sukhumvit.
+Cr.sunisa",13.74159858,100.5620261,10,2024-01-13 18:50,2024-01-13 19:50,itic.sunisa
+778,816269,รถเสีย ถนนเพชรบุรี,Car breakdown at Phetchaburi Rd.,"รถเสีย ถนนเพชรบุรี ขาเข้า หน้าแพลตตินั่ม ประตูน้ำ รถประจำทาง จอดเสีย ขวางเลนซ้าย
+
+Cr.FM91","Car breakdown blocking the left lane in front of Platinum Pratunam on inbound Phetchaburi Rd.
+
+Cr.FM91",13.75045803,100.5394761,1,2024-01-14 16:02,2024-01-14 17:02,itic.adisak
+783,816274,อุบัติเหตุ ถนนอโศกมนตรี,Accident at Asok Monti Rd.,"ถนนอโศกมนตรี ก่อนถึงโรงพยาบาลจักษุ รัตนิน รถแท็กซี่ ชนกับ รถเก๋ง 
+
+Cr. Fm91","Car accident blocking traffic lane before Rutnin Eye Hospital on Asok Montri Rd.
+
+Cr. Fm91",13.74740227,100.5630771,3,2024-01-14 18:42,2024-01-14 19:42,itic.sunisa
+795,816288,อุบัติเหตุ ปากซอยเพชรบุรี 33,Accident at Phetchaburi 33,"ถนนเพชรบุรี ช่วงแยกประตูน้ำ ไป แยกมิตรสัมพันธ์ ปากซอยเพชรบุรี33 รถจักรยานยนต์ชนกับรถบรรทุก ขวางช่องทางซ้าย
+
+Cr.JS 100","Motorcycle accident blocking the left lane at the entrance of Soi Phetchaburi 33.
+
+Cr.JS 100",13.74958654,100.5455017,3,2024-01-15 2:58,2024-01-15 3:58,itic.nirat
+830,816328,อุบัติเหตุ ถนนราชดำริ,Accident at Ratchadamri Rd.,"ถนนราชดำริ ขาออก จากแยกราชประสงค์ มุ่งหน้า แยกสารสิน บริเวณจุดกลับรถปาก ซ.มหาดเล็กหลวง 1 (จยย.ชนกัน 2 คัน) ขวางช่องทางขวา บาดเจ็บ 1 คน การจราจรเคลื่อนตัวช้า
+
+Cr.Nakorn58","Motorcycles accident blocking the right lane at  U-turn Soi Mahatlek Luang 1 on outbound Ratchadamri Rd.
+
+Cr.Nakorn58",13.74166485,100.5398744,3,2024-01-15 11:59,2024-01-15 12:59,itic.pacharasrung
+847,816345,รถเสีย ถนนศรีอยุธยา ขาออก,Car breakdown at Si Ayudhaya Rd.,"ถนนศรีอยุธยา ขาออก ช่วง บึงมักกะสัน มีรถนั่งส่วนบุคคล จอดเสีย กีดขวางการจราจร การจราจรติดขัด
+
+Cr.FM91trafficpro","Car breakdown blocking traffic lane at Bueng Makkasan area on outbound Si Ayutthaya Rd.
+
+Cr.FM91trafficpro",13.75624702,100.5418834,1,2024-01-15 17:47,2024-01-15 18:47,itic.rattanakit
+857,816355,อุบัติเหตุ ทางยกระดับพระราม9 ขาออก,Accident at Rama IX Overpass,"ทางยกระดับพระราม9 ขาออก เลยโบสถ์แม่พระ ประมาณ 300ม. รถเก๋ง 2คัน ชนกัน ขวางช่องทางขวา การจราจรเคลื่อนตัวช้า
+
+Cr. Js100","Cars accident blocking the right lane, 300 m. past Mae Phra Church on outbound Rama IX Overpass. Slow traffic
+
+Cr. Js100",13.75995415,100.556051,3,2024-01-15 19:23,2024-01-15 20:23,itic.sunisa
+895,816402,อุบัติเหตุ ถนนสุขุมวิท ขาเข้า,Accident at Sukhumvit Rd.,"ถนนสุขุมวิท ขาเข้า ก่อนถึงซ.สุขุมวิท 20 เล็กน้อย รถปิคอัพกับรถแท็กซี่ ชนกัน ขวางช่องทางซ้าย การจราจรเคลื่อนตัวช้า
+
+Cr. JS100","Cars accident blocking the left lane before Soi Sukhumvit 20 on inbound Sukhumvit Rd.
+
+Cr. JS100",13.73424315,100.5642235,3,2024-01-16 11:25,2024-01-16 12:25,itic.pacharasrung
+938,816449,ระวังน้ำมันหกรดผิวจราจร ถนนสีลม,Warning at Silom Rd.,"ถนนสีสม ขาออก ก่อนถึงแยกศาลาแดงเล็กน้อย (บริเวณใต้ BTS ศาลาแดง) มีน้ำมันหกรดผิวจราจร ระยะทางยาว 100 ม. กว้าง 1 ม. ผู้ใช้เส้นทางโปรดระมัดระวัง
+
+Cr. @Traffic_1197","Caution! oil stain under Sala Daeng BTS Station area on Silom Rd.
+
+Cr. @Traffic_1197",13.72851225,100.5341962,12,2024-01-17 8:42,2024-01-17 9:42,itic.pacharasrung
+951,816462,ซ้อมแผนดับเพลิง โรงแรม ซีทรัส สุขุมวิท 13,Information at Citrus Sukhumvit 13 (Soi Saeng Chan),"วันนี้ (17 มกราคม 2567 ) ช่วงเวลานี้ - 16.00 น. โรงแรม ซีทรัส สุขุมวิท 13 ซอยสุขุมวิท 13 แขวงคลองเตยเหนือ เขตวัฒนา กรุงเทพมหานคร  จะมีการซ้อมแผนดับเพลิง และซ้อมอพยพหนีไฟ
+
+Cr.ศูนย์วิทยุพระราม199","Citrus Sukhumvit 13 Bangkok has Basic Fire Fighting this time - 16.00 hrs. on January 17, 2024.
+
+Cr.ศูนย์วิทยุพระราม199",13.74283599,100.5578184,8,2024-01-17 11:46,2024-01-17 12:46,itic.pacharasrung
+952,816463,ซ้อมแผนดับเพลิง โรงแรม ซิตี้ชิค สุขุมวิท 13,Information at Citichic Hotel Sukhumvit 13,"วันนี้ (17 มกราคม 2567) ช่วงเวลานี้ - 16.00 น. โรงแรม ซิตี้ชิค สุขุมวิท 13 กรุงเทพฯ บาย คอมแพส ฮอสปิทาลิตี้ ซอยสุขุมวิท 13 แขวงคลองเตยเหนือ เขตวัฒนา กรุงเทพมหานคร จะมีการซ้อมแผนดับเพลิง และซ้อมอพยพหนีไฟ
+
+Cr.ศูนย์วิทยุพระราม199","Citichic Hotel Sukhumvit 13 has Basic Fire Fighting this time - 16.00 hrs. on January 17, 2024.
+
+Cr.ศูนย์วิทยุพระราม199",13.74428591,100.5581255,8,2024-01-17 11:49,2024-01-17 12:49,itic.pacharasrung
+957,816468,รถเสีย ถนนเพชรบุรี ขาออก,Car breakdown at Phetchaburi Rd.,"ถนนเพชรบุรี ขาออก บนสะพานข้ามแยกอโศก-เพชรบุรี มีรถกระบะ จอดเสีย กีดขวางการจราจร เลนซ้าย การจราจรชะลอตัว
+
+Cr.FM91trafficpro","Car breakdown blocking the left lane on Asok-Phetchaburi Overpass on outbound Phetchaburi Rd.
+
+Cr.FM91trafficpro",13.74904984,100.5632888,1,2024-01-17 13:33,2024-01-17 14:33,itic.rattanakit
+959,816470,ระวังดินตกหล่น ถนนอโศก-ดินแดง,Warning at Asok-Din Daeng Rd.,"ถนนอโศก-ดินแดง บริเวณแยกโบสถ์แม่พระ มีดินตกหล่น ผู้ใช้เส้นทางโปรดเพิ่มความระมัดระวัง
+
+Cr.อาสามูลนิธิร่วมกตัญญู นคร 45","Caution soil fall blocking traffic lane at Wat Mae Phra Intersection on Asok-Din Daeng Rd.
+
+Cr.อาสามูลนิธิร่วมกตัญญู นคร 45",13.76035289,100.5550329,12,2024-01-17 14:17,2024-01-17 15:17,itic.rattanakit
+975,816486,รถเสีย ถนนพระราม 4 ขาเข้า,Car breakdown at Rama IV Rd.,"ถนนพระราม4 ขาเข้า กลางสะพานไทย-ญี่ปุ่น แท็กซี่จอดเสีย ขวางช่องทางซ้าย การจราจรเคลื่อนตัวช้า
+
+Cr. Js100","Car breakdown blocking the left lane at Thai-Japanese bridge on inbound Rama IV Rd.
+
+Cr. Js100",13.72936297,100.5366919,1,2024-01-17 18:19,2024-01-17 19:19,itic.sunisa
+980,816493,อุบัติเหตุ ถนนเพชรบุรี ขาเข้า,Accident at Phetchaburi Rd.,"ถนนเพชรบุรี ขาเข้า บริเวณ `แยกอโศก-เพชรบุรี` มีอุบัติเหตุ (จยย. ชนกับ รถนั่งส่วนบุคคล) มีผู้ได้รับบาดเจ็บ 
+
+Cr.อาสาร่วมด้วยฐานโพธิ์คู่","Cars accident blocking traffic lane at Asok-Phetchaburi Intersection on inbound Phetchaburi Rd.
+
+Cr.อาสาร่วมด้วยฐานโพธิ์คู่",13.74882839,100.5635852,3,2024-01-17 21:18,2024-01-17 22:18,itic.kittaya@gmail.com
+982,816495,อุบัติเหตุ แยกนานา,Accident at Nana Intersection..,"แยกนานา มีอุบัติเหตุ รถชนกัน กีดขวางการจราจร เลนกลาง มีผู้ได้รับบาดเจ็บ 
+
+Cr.FM91trafficpro","Cars accident blocking the middle lane at Nana Intersection.
+
+Cr.FM91trafficpro",13.74215598,100.5529583,3,2024-01-17 22:04,2024-01-17 23:04,itic.kittaya@gmail.com
+1034,816553,เพลิงไหม้ ซอยสุขุมวิท 22 (ซอยสายน้ำทิพย์),Fire at Soi Sukhumvit 22 (Soi Sai Namthip),"เหตุเพลิงไหม้บ้านเรือนประชาชน ซอยสุขุมวิท 22 เจ้าหน้าที่สถานีดับเพลิงและกู้ภัยคลองเตยถึงที่เกิดเหตุ เบื้องต้นเพลิงลุกไหม้ที่ชั้น 4 แสงเพลิงและกลุ่มควันจำนวนมาก
+
+Cr.ศูนย์วิทยุพระราม199","Fire in Soi Sukhumvit 22.
+
+Cr.ศูนย์วิทยุพระราม199",13.73041301,100.5651408,15,2024-01-18 16:35,2024-01-18 17:35,itic.rattanakit
+1036,816555,อุบัติเหตุ ถนนราชดำริ,Accident at Ratchadamri Rd.,"ถนนราชดำริ หน้าเซ็นทรัลเวิลด์ มีอุบัติเหตุ จยย. ชนกับ รถประจำทาง กีดขวางการจราจร
+
+Cr.อาสาร่วมด้วยโพธิ์คู่ 52","Cars accident blocking traffic lane in front of Central World on Ratchadamri Rd.
+
+Cr.อาสาร่วมด้วยโพธิ์คู่ 52",13.74641451,100.5404887,3,2024-01-18 16:41,2024-01-18 17:41,itic.rattanakit
+1064,816586,อุบัติเหตุ ถนนเพลินจิต,Accident at Phloenchit Rd.,"ถนนเพลินจิต ช่วงแยกนานา ไป แยกราชประสงค์ บริเวณแยกเพลินจิต รถแท็กซี่ 2 คันชนกัน ขวางช่องทางกลาง
+
+Cr.JS 100","Cars accident blocking the middle lane at Phloen Chit Intersection on Phloen Chit Rd.
+
+Cr.JS 100",13.74333493,100.5473618,3,2024-01-19 4:20,2024-01-19 5:20,itic.nirat
+1070,816595,ระวังมีเจ้าหน้าที่กำลังทำงาน ถนนดินแดง ขาเข้า,Warning at Din Daeng Rd.,"05.30 น. ถนนดินแดง ขาเข้า  เลยแยกโบสถ์แม่พระฯ มุ่งหน้าแยกดินแดง มีเจ้าหน้าที่กำลังทำงาน ปิดการจราจร 2  เลนขวา รถเริ่มชะลอตัวแล้ว  
+
+Cr.FM 91","Caution due to officers work blocking 2 right lanes past Pracha Songkhro Intersection on inbound Din Daeng Rd.
+
+Cr.FM 91",13.76170631,100.5522957,12,2024-01-19 5:35,2024-01-19 6:35,itic.nirat
+1071,816596,รถติด ถนนดินแดง ขาเข้า,Heavy traffic at Din Daeng Rd.,"รถติด ถนนดินแดง ขาเข้า มีเจ้าหน้าที่กำลังทำงาน ปิดการจราจร 2  เลนขวา เลยแยกโบสถ์แม่พระฯ มุ่งหน้าแยกดินแดง 
+
+Cr.FM 91","Heavy traffic due to officers work blocking 2 right lanes past Pracha Songkhro Intersection on inbound Din Daeng Rd.
+
+Cr.FM 91",13.76087264,100.5540016,10,2024-01-19 5:39,2024-01-19 6:39,itic.nirat
+1087,816613,อุบัติเหตุ ถนนรัชดาภิเษก,Accident at Ratchada Phisek Rd.,"ถนนรัชดาภิเษก ช่วง แยกเทียมร่วมมิตร มุ่งหน้า แยกพระราม9 บริเวณซ.รัชดาภิเษก 6 รถจยย. ไม่ทราบคู่กรณี ขวางช่องทางขวา บาดเจ็บ 1คน จนท.กำลังดำเนินการ การจราจรเคลื่อนตัวช้า
+
+Cr.บูรพา12/RKU Suwan102","Motorcycle accident blocking the right lane at the entrance of Soi Ratchada Phisek 
+ 6 on Ratchada Phisek Rd.
+
+Cr.บูรพา12/RKU Suwan102",13.76432844,100.5689576,3,2024-01-19 10:09,2024-01-19 11:09,itic.pacharasrung
+1093,816619,อุบัติเหตุ ถนนพระราม 4,Accident at Rama IV Rd.,"ถนนพระราม 4 ช่วง แยกวิทยุ มุ่งหน้า แยกศาลาแดง บริเวณหน้าอาคารอับดุลราฮิม รถจยย. ไม่ทราบคู่กรณี บาดเจ็บ 1 คน การจราจรชะลอตัว
+
+Cr.Aon","Motorcycle accident blocking traffic lane in front of  Abdulrahim Building on inbound Rama IV Rd.
+
+Cr.Aon",13.72817352,100.5395284,3,2024-01-19 11:31,2024-01-19 12:31,itic.pacharasrung
+1103,816629,รถเสีย ถนนจตุรทิศ ขาออก,Car breakdown at Chatura Thit Rd.,"ถนนจตุรทิศ ขาออก เลย `แยกมักกะสัน` เล็กน้อย มี (รถนั่งส่วนบุคคล จอดเสีย) กีดขวางการจราจร เลนซ้าย 
+
+Cr.@Traffic_1197","Car breakdown blocking the left lane past Makkasan Intersection on outbound Chaturathit Rd.
+
+Cr.@Traffic_1197",13.7559396,100.5431615,1,2024-01-19 15:10,2024-01-19 16:10,itic.rattanakit
+1121,816647,อุบัติเหตุ ถนนอโศก-ดินแดง,Accident at Asok-Din Daeng Rd.,"ถนนอโศก-ดินแดง เลย `แยกอโศก-เพชรบุรี` เล็กน้อย มีอุบัติเหตุ (จยย. ชนกัน) กีดขวางการจราจร เลนขวา 
+
+Cr.@Traffic_1197","Cars accident blocking the right lane past Asok-Phetchaburi Intersection on Asok - Din Daeng Rd.
+
+Cr.@Traffic_1197",13.74958133,100.563439,3,2024-01-19 21:13,2024-01-19 22:13,itic.kittaya@gmail.com
+1124,816650,คืบหน้าอุบัติเหตุ ถนนอโศก-ดินแดง,Accident at Asok-Din Daeng Rd.,"ถนนอโศก-ดินแดง เลย `แยกอโศก-เพชรบุรี` เล็กน้อย ก่อนหน้านี้ มีอุบัติเหตุ (จยย. ชนกัน) ล่าสุด จนท.เคลื่อนย้ายพ้นกีดขวางแล้ว 
+
+Cr.@Traffic_1197","Update motorcycle accident was moved out of locale past Asok-Phetchaburi Intersection on Asok - Din Daeng Rd.
+
+Cr.@Traffic_1197",13.74958524,100.5634242,3,2024-01-19 23:14,2024-01-20 0:14,itic.kittaya@gmail.com
+1166,816698,อุบัติเหตุ ยกระดับพระราม 9 ขาเข้า,Accident at Rama IX Overpass.,"ยกระดับพระราม 9 ขาเข้า เชิงทางลง `แยกประชาสงเคราะห์` มีอุบัติเหตุ (รถบรรทุก ชนกับ รถนั่งส่วนบุคคล) กีดขวางการจราจร เลนกลาง
+
+Cr.@Traffic_1197","Cars accident blocking the middle lane on the way down from Pracha Songkhro Intersection on inbound Rama IX Overpass.
+
+Cr.@Traffic_1197",13.75640594,100.5601372,3,2024-01-20 16:31,2024-01-20 17:31,itic.rattanakit
+1168,816700,อุบัติเหตุ ถนนเพชรบุรี ขาออก,Accident at Phetchaburi Rd.,"ถนนเพชรบุรี ขาออก บริเวณหน้า `กรุงทองพลาซ่า` มีอุบัติเหตุ (จยย. ชนกับ รถสามล้อ) กีดขวางการจราจร เลนซ้าย 
+
+Cr.@Traffic_1197","Cars accident blocking the left lane in front of Krung Thong Plaza on outbound Phetchaburi Rd.
+
+Cr.@Traffic_1197",13.75075374,100.5390483,3,2024-01-20 17:40,2024-01-20 18:40,itic.rattanakit
+1238,816787,เพลิงไหม้ สวนลุมพินี,Fire at Lumphini Park,"รับแจ้งจากสถานีดับเพลิงและกู้ภัยบ่อนไก่ เหตุเพลิงไหม้หญ้าและกองขยะ ภายในสวนลุมพินี แขวงลุมพินี เขตปทุมวัน เจ้าหน้าที่สถานีดับเพลิงและกู้ภัยบ่อนไก่กำลังไปที่เกิดเหตุ
+
+Cr.ศูนย์วิทยุพระราม199","Fire at Lumphini Park., Pathum Wan, Bangkok.
+
+Cr.ศูนย์วิทยุพระราม199",13.73108394,100.5418029,15,2024-01-22 11:53,2024-01-22 12:53,itic.pacharasrung
+1253,816802,รถเสีย ถนนพระราม 9 ขาเข้า,Car breakdown at Rama IX Rd.,"ถนนพระราม9 ขาเข้า ก่อนถึงแยกพระราม 9 มีรถแท็กซี่ จอดเสีย กีดขวางการจราจร เลนขวา การจราจรติดขัด
+
+Cr.FM91trafficpro","Car breakdown blocking the right lane before Rama IX Intersection on inbound Rama IX Rd.
+
+Cr.FM91trafficpro",13.75590182,100.5661145,1,2024-01-22 17:38,2024-01-22 18:38,itic.rattanakit
+1289,816844,รถเสีย ถนนจตุรทิศ ขาเข้า,Car breakdown at Chatura Thit Rd.,"ถนนจตุรทิศ ขาเข้า บนสะพานข้ามแยกหมอเหล็ง มีรถแท็กซี่ จอดเสีย กีดขวางการจราจร เลนขวา การจราจรชะลอตัว
+
+Cr.JS100","Car breakdown blocking the right lane on Mo Leng Overpass on inbound Chaturathit Rd.
+
+Cr.JS100",13.75588228,100.5427364,1,2024-01-23 12:38,2024-01-23 13:38,itic.rattanakit
+1290,816845,อุบัติเหตุ ถนนดินแดง ขาเข้า,Accident at Din Daeng Rd.,"ถนนดินแดง ขาเข้า บนสะพานข้ามแยกสามเหลี่ยมดินแดง มีอุบัติเหตุ รถกระบะ ชนกัน กีดขวางการจราจร เลนซ้าย การจราจรชะลอตัว
+
+Cr.FM91trafficpro","Cars accident blocking the left lane on Sam Liam Din Daeng Overpass on inbound Din Daeng Rd.
+
+Cr.FM91trafficpro",13.76272103,100.5433211,3,2024-01-23 12:43,2024-01-23 13:43,itic.rattanakit
+1299,816854,อุบัติเหตุ ปากซอยสุขุมวิท 20 (ซอยสายน้ำผึ้ง),Accident at Soi Sukhumvit 20 (Soi Sainamphueng),"ปากซอยสุขุมวิท 20 มีอุบัติเหตุ จยย. ชนกับ รถกระบะ กีดขวางการจราจร
+
+Cr.อาสาร่วมด้วยอโศก 11","Cars accident blocking traffic lane at the entrance of Soi Sukhumvit 20.
+
+Cr.อาสาร่วมด้วยอโศก 11",13.73434607,100.5639808,3,2024-01-23 15:15,2024-01-23 16:15,itic.rattanakit
+1303,816858,รถเสีย ถนนศรีอยุธยา ขาเข้า,Car breakdown at Si Ayudhaya Rd.,"ถนนศรีอยุธยา ขาเข้า บริเวณหน้าพิพิธภัณฑ์วังสวนผักกาด มีรถนั่งส่วนบุคคล จอดเสีย กีดขวางการจราจร เลนกลาง การจราจรชะลอตัว
+
+Cr.JS100","Car breakdown blocking the middle lane in front of Suan Phak Palace Museum on inbound Si Ayutthaya Rd.
+
+Cr.JS100",13.75703772,100.5375771,1,2024-01-23 15:24,2024-01-23 16:24,itic.rattanakit
+1306,816861,รถเสีย ถนนอโศกมนตรี,Car breakdown at Asok Monti Rd.,"ถนนอโศกมนตรี บริเวณตรงข้าม มศว ประสานมิตร มีรถนั่งส่วนบุคคล จอดเสีย กีดขวางการจราจร เลนขวา การจราจรติดขัด
+
+Cr.@Traffic_1197","Car breakdown blocking the right lane opposite Srinakharinwirot University on Asok Montri Rd.
+
+Cr.@Traffic_1197",13.74530722,100.5625525,1,2024-01-23 15:37,2024-01-23 16:37,itic.rattanakit
+1307,816862,อุบัติเหตุ ถนนอโศกมนตรี,Accident at Asok Monti Rd.,"ถนนอโศกมนตรี บริเวณบนสะพานข้ามคลองแสนแสบ มีอุบัติเหตุ จยย. ชนกัน กีดขวางการจราจร เลนขวา มีผู้ได้รับบาดเจ็บ การจราจรติดขัด
+
+Cr.@Traffic_1197","Cars accident blocking the right lane on Khlong Saen Saep Bridge on Asok Montri Rd.
+
+Cr.@Traffic_1197",13.74778234,100.563148,3,2024-01-23 15:38,2024-01-23 16:38,itic.rattanakit
+1325,816880,รถติด ถนนราชดำริ,Heavy traffic  at Ratchadamri Rd.,"ถนนราชดำริ ช่วงแยกราชประสงค์ - แยกประตูน้ำ การจราจรยังคงติดขัด รถมากเคลื่อนตัวได้ช้า 
+
+Cr. 1197","Heavy traffic from Ratchaprasong Intersection to Pratu Nam Intersection on Ratchadamri Rd. 
+
+Cr. 1197",13.74612285,100.5404576,10,2024-01-23 20:51,2024-01-23 21:51,itic.sunisa
+1355,816916,รถเสีย ถนนพญาไท ขาออก,Car breakdown at Phayathai Rd.,"ถนนพญาไท ขาออก ก่อนถึงแยกพญาไท ประมาณ 100 เมตร มีรถแท็กซี่ จอดเสีย กีดขวางการจราจร เลนขวา การจราจรชะลอตัว
+
+Cr.FM91trafficpro","Car breakdown blocking the right lane , 100 m. before Phaya Thai Intersection on outbound Phaya Thai Rd.
+
+Cr.FM91trafficpro",13.75984097,100.5355735,1,2024-01-24 14:06,2024-01-24 15:06,itic.rattanakit
+1369,816930,อุบัติเหตุ ถนนพญาไท,Accident at Phayathai Rd.,"ถนนพญาไท ตรงข้ามธนาคารกรุงศรี เก๋งกับแท็กซี่ชนกัน ขวางช่องทางกลาง การจราจร เคลื่อนตัวช้า
+
+Cr. Js100",Phayathai Rd. Thanon Phaya Thai Ratchathewi Bangkok 10400,13.75503581,100.532833,3,2024-01-24 18:56,2024-01-24 19:56,itic.sunisa
+1403,816976,อุบัติเหตุ ถนนราชปรารภ,Accident at Ratchaprarop Rd.,"ถนนราชปรารถ ช่วงปากซอยราชปรารภ 12 รถเก๋งชนกับรถแท็กซี่ คนขับรถเก๋งหมดสติ ล่าสุด จนท.กำลังช่วยเหลือ
+
+Cr.Nakorn58","Cars accident blocking traffic lane at the entrance of Soi Ratchaprarop 12.
+
+Cr.Nakorn58",13.75694784,100.5424695,3,2024-01-25 11:21,2024-01-25 12:21,itic.pacharasrung
+1477,817063,อุบัติเหตุ ถนนศรีอยุธยา,Accident at Si Ayudhaya Rd.,"ถนนศรีอยุธยา บริเวณหน้าโรงเรียนศรีอยุธยา มีอุบัติเหตุ รถนั่งส่วนบุคคล ชนกับ รถแท็กซี่ กีดขวางการจราจร เลนขวา การจราจรชะลอตัว
+
+Cr.JS100","Cars accident blocking the right lane in front of Sri Ayutthaya School on Si Ayutthaya Rd.
+
+Cr.JS100",13.75709634,100.5380546,3,2024-01-26 16:14,2024-01-26 17:14,itic.rattanakit
+1481,817067,อุบัติเหตุ ถนนเพชรบุรี ขาออก,Accident at Phetchaburi Rd.,"ถนนเพชรบุรี ขาออก เลยแยกราชเทวี ประมาณ 300 เมตร มีอุบัติเหตุ รถเเท็กซี่ ชนกับ รถประจำทาง กีดขวางการจราจร เลนซ้าย การจราจรติดขัด
+
+Cr.FM91trafficpro","Cars accident blocking the left lane , 300 m. past Ratchathewi Intersection on outbound Phetchaburi Rd.
+
+Cr.FM91trafficpro",13.75301646,100.5327773,3,2024-01-26 17:14,2024-01-26 18:14,itic.rattanakit
+1513,817103,อุบัติเหตุ ถนนอโศกมนตรี,Accident at Asok Monti Rd.,"ถนนอโศกมนตรี ช่วงสะพานข้ามคลองแสนแสบ ไป แยกอโศกสุขุมวิท เลยอาคารจีเอ็มเอ็มแกรมมี่เล็กน้อย รถเก๋งเสียหลักชนขอบทาง ขวางช่องทางซ้าย
+
+Cr.JS 100","Car accident blocking the left lane past GMM Grammy Tower on inbound Asok Monti Rd.
+
+Cr.JS 100",13.74305876,100.5621837,3,2024-01-27 2:31,2024-01-27 3:31,itic.nirat
+1541,817139,อุบัติเหตุ ถนนดินแดง ขาออก,Accident at Din Daeng Rd.,"ถนนดินแดง ขาออก เลย `แยกดินแดง` เล็กน้อย มีอุบัติเหตุ (รถกระบะ ชนกับ รถนั่งส่วนบุคคล) กีดขวางการจราจร เลนขวา
+
+Cr.@Traffic_1197","Cars accident blocking the right lane past Din Daeng Intersection on outbound Din Daeng Rd.
+
+Cr.@Traffic_1197",13.76335019,100.5493909,3,2024-01-27 13:18,2024-01-27 14:18,itic.kittaya@gmail.com
+1614,817232,รถติด ถนนราชดำริ,Heavy traffic  at Ratchadamri Rd.,"ถนนราชดำริ มุ่งหน้าแยกประตูน้ำ การจราจรเคลื่อนตัวช้า
+
+Cr.sunisa","Heavy traffic heading to Pratunam Intersection on Ratchadamri Rd.
+
+Cr.sunisa",13.74638033,100.5404664,10,2024-01-28 18:58,2024-01-28 19:58,itic.sunisa
+1631,817267,อุบัติเหตุ ถนนราชวิถี,Accident at Ratchawithi Rd.,"ถนนราชวิถี ขาเข้า บริเวณ ปากซอยราชวิถี 5 มีรถประจำทาง จอดเสีย กีดขวางการจราจร เลนซ้าย การจราจรติดขัด
+
+Cr.FM91trafficpro","Car breakdown blocking the left lane at the entrance of Soi Ratchawithi 5.
+
+Cr.FM91trafficpro",13.76382043,100.5406925,3,2024-01-29 7:57,2024-01-29 8:57,itic.pacharasrung
+1688,817331,อุบัติเหตุ ถนนสุขุมวิท ขาออก,Accident at Sukhumvit Rd.,"ถนนสุขุมวิท ปากซอยสุขุมวิท 27 (หน้าโรงแรมคาร์ลตัน กรุงเทพ สุขุมวิท) มีอุบัติเหตุ กีดขวางการจราจรช่องทางขวา ขับรถระวัง
+
+Cr.@tumnote","Cars accident blocking the right lane at the entrance of Soi Sukhumvit 27 on outbound Sukhumvit Rd. 
+
+Cr.@tumnote",13.7345011,100.5641149,3,2024-01-30 9:09,2024-01-30 10:09,itic.pacharasrung
+1720,817367,รถเสีย ถนนรัชดาภิเษก ขาเข้า,Car breakdown at Ratchada Phisek Rd.,"ถนนรัชดาภิเษก ขาเข้า บริเวณหน้าเซ็นทรัลพระราม 9 มีรถนั่งส่วนบุคคล จอดเสีย กีดขวางการจราจร เลนซ้าย
+
+Cr.JS100","Car breakdown blocking the left lane in front of Central Rama IX on inbound Ratchadaphisek Rd.
+
+Cr.JS100",13.75884577,100.5656961,1,2024-01-30 16:02,2024-01-30 17:02,itic.rattanakit
+1731,817378,รถเสีย ถนนพระราม 4 ขาออก,Car breakdown at Rama IV Rd.,"ถ.พระราม 4 ขาออก หน้าสวนลุมพินี (ประตู 3) รถ 6 ล้อรับจ้าง จอดเสีย เลนซ้าย
+
+Cr. Fm91","Car breakdown blocking the left lane in front of Lumphini Park on outbound Rama IV Rd.
+
+Cr. Fm91",13.7279718,100.5405936,1,2024-01-30 19:24,2024-01-30 20:24,itic.sunisa
+1738,817385,รถเสีย ถนนราชปรารภ,Car breakdown at Ratchaprarop Rd.,"ถนนราชปรารภ หน้า `อินทราสแควร์` มี (รถนั่งส่วนบุคคล จอดเสีย) กีดขวางการจราจร เลนซ้าย 
+
+Cr.@Traffic_1197","Car breakdown blocking the left lane in front of Indra Square on Ratchaprarop Rd.
+
+Cr.@Traffic_1197",13.75331346,100.5416957,1,2024-01-30 22:30,2024-01-30 23:30,itic.kittaya@gmail.com
+1748,817404,อุบัติเหตุ ถนนเพชรบุรี,Accident at Phetchaburi Rd.,"ถนนเพชรบุรี ช่วง แยกมิตรสัมพันธ์ มุ่งหน้า ใต้ทางด่วนเพชรบุรี บริเวณอาคารธนภูมิ รถจยย.ไม่ทราบคู่กรณี ขวางช่องทางซ้าย บาดเจ็บ 1 คน การจราจรเคลื่อนตัวช้า
+
+Cr.JS100","Motorcycle accident blocking the left lane in front of Thanapoom Tower on inbound Phetchaburi Rd.
+
+Cr.JS100",13.74974287,100.5566704,3,2024-01-31 7:56,2024-01-31 8:56,itic.pacharasrung
+1770,817426,อุบัติเหตุ ถนนศรีอยุธยา ขาเข้า,Accident at Si Ayudhaya Rd.,"ถนนศรีอยุธยา ขาเข้า บริเวณแยกหมอเหล็ง มีอุบัติเหตุ รถนั่งส่วนบุคคล ชนกัน กีดขวางการจราจร เลนกลาง การจราจรชะลอตัว
+
+Cr.JS100","Cars accident blocking the middle lane at Mo Leng Intersection on inbound Si Ayutthaya Rd.
+
+Cr.JS100",13.7561884,100.5420698,3,2024-01-31 12:47,2024-01-31 13:47,itic.rattanakit
